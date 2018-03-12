@@ -1,3 +1,5 @@
 {
-    "/home/travis/build/Ultimate-Hosts-Blacklist/BadIPs.com_Level_3/domains.list": {}
+    "/home/travis/build/Ultimate-Hosts-Blacklist/BadIPs.com_Level_3/domains.list": {
+        "to_test": []
+    }
 }

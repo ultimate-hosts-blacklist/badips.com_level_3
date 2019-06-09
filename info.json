@@ -1,8 +1,8 @@
 {
     "currently_under_test": "1",
     "days_until_next_test": 2,
-    "end_datetime": "Sun Jun  9 15:28:48 2019",
-    "end_epoch": 1560094128.939376,
+    "end_datetime": "Sun Jun  9 15:40:47 2019",
+    "end_epoch": 1560094847.795958,
     "last_test": 1557522363,
     "name": "BadIPs.com_Level_3",
     "raw_link": "http://www.badips.com/get/list/any/3?age=12"

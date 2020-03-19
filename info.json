@@ -34,6 +34,9 @@
         "whitelisted.list": 102248
     },
     "raw_link": "http://www.badips.com/get/list/any/3?age=12",
+    "link": "https://www.badips.com/",
+    "issue_link": "https://www.badips.com/forum",
+    "description": "badips.com is a community based IP blacklist service.",
     "start_datetime": "2020-03-03T16:07:56.409672",
     "start_epoch": 1573124025.744289
 }

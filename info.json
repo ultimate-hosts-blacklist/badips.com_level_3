@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 1429,
+        "builds": 1430,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -15,10 +15,13 @@
     },
     "currently_under_test": true,
     "days_until_next_test": 2,
+    "description": "badips.com is a community based IP blacklist service.",
     "end_datetime": "2020-03-03T16:07:56.405517",
     "end_epoch": 1573075235.964024,
+    "issue_link": "https://www.badips.com/forum",
     "last_autosave_datetime": "2020-03-03T16:07:56.405531",
     "last_autosave_epoch": 1582477592.116982,
+    "link": "https://www.badips.com/",
     "name": "BadIPs.com_Level_3",
     "previous_stats": {
         "builds": 173,
@@ -34,9 +37,6 @@
         "whitelisted.list": 102248
     },
     "raw_link": "http://www.badips.com/get/list/any/3?age=12",
-    "link": "https://www.badips.com/",
-    "issue_link": "https://www.badips.com/forum",
-    "description": "badips.com is a community based IP blacklist service.",
     "start_datetime": "2020-03-03T16:07:56.409672",
     "start_epoch": 1573124025.744289
 }
